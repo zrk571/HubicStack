@@ -1,5 +1,5 @@
 # HubicStack
-HubiC - OpenStack Swift Java client API
+## OpenStack Swift Java client API
 ==================================================================
 
 ## Overview :
@@ -14,7 +14,9 @@ This repository has a Maven integration, so first just update dependencies :
 
 Declare a new application into your personnal account :
 > Go to : https://hubic.com/home//browser/developers/
+
 > Click "Add an application"
+
 > fill the form & submit
 
 *Keep in mind that it's prerequisite a valid Maven setup and HubiC application ID&Secret token.*
